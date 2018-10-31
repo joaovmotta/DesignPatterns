@@ -1,6 +1,6 @@
 package br.com.pattern.factory.solution;
 
-public class Volvo extends Car implements CarFunctions{
+public class Volvo extends Car{
 
     @Override
     public void run() {
